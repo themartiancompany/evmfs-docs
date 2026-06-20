@@ -24,13 +24,20 @@
 [comment]: <> (with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
-# Ethereum Virtual File System (EVMFS) documentation
+# Undeletability
 
-- [Undeletability](
-    Undeletability.md)
+Here follows a practical and simple
+definition for the concept of *undeletability*,
+in the context of blockchain networks.
 
-- [Architecture](
-    Architecture.md)
+Given a set of Ethereum blockchain networks *N*,
+some data *d*
+is said
+*undeletable* in *N*
+if it's stored on every blockchain network
+*(b,n)* of *N*.
 
-- [Reference implementations](
-    Implementations.md)
+## License
+
+This document is released by Pellegrino Prevete
+under the terms of the GNU Affero General Public License version 3.
