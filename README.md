@@ -27,9 +27,9 @@
 <div
    align="center">
   <a
-     href="https://github.com/themartiancompany/dogeos">
+     href="https://github.com/themartiancompany/evmfs">
     <img
-       src="https://raw.githubusercontent.com/themartiancompany/evmfs-data/b652049ea730193dcb0ea5f6dad56b97318352c0/evmfs-landscape.png"
+       src="https://raw.githubusercontent.com/themartiancompany/evmfs-data/b652049ea730193dcb0ea5f6dad56b97318352c0/media/evmfs-landscape.png"
        width="500"
     />
   </a>
