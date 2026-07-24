@@ -24,18 +24,19 @@
 [comment]: <> (with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
+
+# Ethereum Virtual File System (EVMFS) documentation
+
 <div
    align="center">
   <a
      href="https://github.com/themartiancompany/evmfs">
     <img
-       src="https://raw.githubusercontent.com/themartiancompany/evmfs-data/b652049ea730193dcb0ea5f6dad56b97318352c0/media/evmfs-landscape.png"
+       src="https://raw.githubusercontent.com/themartiancompany/evmfs-data/b652049ea730193dcb0ea5f6dad56b97318352c0/evmfs-landscape.png"
        width="500"
     />
   </a>
 </div>
-
-# Ethereum Virtual File System (EVMFS) documentation
 
 - [Undeletability](
     Undeletability.md)
